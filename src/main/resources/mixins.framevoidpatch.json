@@ -1,0 +1,9 @@
+{
+  "package": "framevoidpatch.mixin",
+  "refmap": "refmap.framevoidpatch.json",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.6",
+  "mixins": [
+    "EntityItemFrameMixin"
+  ]
+}
